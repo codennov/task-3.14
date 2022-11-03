@@ -20,7 +20,7 @@ LICENSE: [MIT](./license.md)
    - 5.4 [git push](./pusch.md)
    - 5.5 [git pull](./pull.md)
 6. [Creating a new repository](./creating.md)
-   - 6.1 creating a new  repository ***on the command line***
+   - [6.1 creating a new  repository ***on the command line***](./repo.md)
 6. [Summary](./summary.md)
 
 
